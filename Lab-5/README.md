@@ -36,13 +36,14 @@ Upon completing the lab, you will know how to:
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Machine Learning with SparkML` and optionally you can give it a description.
 1. In the Notebook URL field, use `https://github.com/bleonardb3/DS_POT_05-09/blob/master/Lab-5/Machine%20Learning%20with%20SparkML.ipynb`.
-1. ###  Select the Runtime.  WARNING MAKE SURE TO SELECT `Default Spark Python 3.5 XS (Driver with 1vCPU ...`
+1. ###  Select the Runtime.  MAKE SURE TO SELECT `Default Spark Python 3.5 XS (Driver with 1vCPU ...`
 
 > <img src="https://github.com/bleonardb3/DS_POT_05-09/blob/master/Lab-5/images/CreateNotebook.png"/>
 
 ### Step 5.  Please make sure the notebook has `Python 3.5 with Spark` in top right corner. 
 
-> <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-2/images/PythonWithSpark.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_05-09/blob/master/Lab-5/images/NotebookView.png"/>
+
 
 ### Step 6.  Follow the instructions in the notebook.
 
