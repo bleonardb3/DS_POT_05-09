@@ -5,7 +5,7 @@ This lab will introduce the Data Refinery.  Data Refinery is a self-service data
 
 ## Objectives 
 
-The goal of the lab is for the users to gain familiarity with the features of the Data Refinery. We will perform the following Data Refinery tasks: <br><br>
+The goal of the lab is for the users to gain familiarity with the features of the Data Refinery. We will perform the following Data Refinery tasks: <br>
 	Create a new Data Flow <br>
 	Profile the data <br>
 	Visualize the data to gain a better understanding <br>
