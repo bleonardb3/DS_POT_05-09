@@ -2,7 +2,9 @@
 
 ## Introduction:
 
-In this lab, you will learn some of the fundamentals of using RStudio and Shiny in Watson Studio to work and interact with data in a DB2 on Cloud database and then to create a fully operational "reactive" web application that you can enhance further.
+In this lab, you will learn some of the fundamentals of using RStudio and Shiny in Watson Studio to work and interact with data in a DB2 Warehouse on Cloud database and then to create a fully operational "reactive" web application that you can enhance further.
+
+You must have completed Lab-5 to be able to run this lab. 
 
 ## Objectives:
 
@@ -47,7 +49,7 @@ Upon completing the lab, you will know how to:
 ### Step 7.  In the files pane in the lower right of the RStudio IDE, click `Lab-7`.
 > <img src="https://github.com/bleonardb3/DS_POT_05-09/blob/master/Lab-7/images/Lab7.png"/>
 
-### Step 8.  Click the `connection.R` file and fill in your DB2 on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to set vetting.table to 'FEMALE_HUMAN_TRAFFICKING'.   Save the file.
+### Step 8.  Click the `connection.R` file and fill in your DB2 Warehouse on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to set vetting.table to 'FEMALE_HUMAN_TRAFFICKING'.   Save the file.
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/RStudio-lab3-connection.png"/>
 
 ### Step 9.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE. 
