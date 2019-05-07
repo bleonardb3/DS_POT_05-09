@@ -9,6 +9,13 @@ dsn.database <- 'BLUDB'
 dsn.port <- '50000'
 dsn.protocol <- 'TCPIP'
 
+# vetting table should be "FEMALE_HUMAN_TRAFFICKING"
 vetting.table = 'VETTING TABLE NAME HERE'
+
+# initials should be your initals - replace BLB
+initials = "BLB"  
+
+results.table = paste0(vetting.table,'_ML_RESULTS_',initals)
+
 
 

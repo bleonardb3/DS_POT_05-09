@@ -59,7 +59,7 @@ Examine the first few rows of the vetting and vetting predictions tables.
 ```{r}
 # Show the first few records in the vetting table data frame and in the vetting predictions table
 head(idadf)
-head(ida.data.frame(paste0(vetting.table, '_ML_RESULTS')))
+head(ida.data.frame(results.table))
 ```
 
 Join the vetting table with the vetting predictions table.
@@ -68,7 +68,7 @@ Join the vetting table with the vetting predictions table.
 # Join the ML predictions with the vetting table using the UUID
 predicted = as.data.frame(
   idaQuery(
-    'SELECT * FROM ', vetting.table, ' LEFT JOIN ', vetting.table, '_ML_RESULTS USING (UUID)',
+    'SELECT * FROM ', vetting.table, ' LEFT JOIN ', results.table, ' USING (UUID)',
     ' ORDER BY VETTING_LEVEL, NAME'
   )
 )

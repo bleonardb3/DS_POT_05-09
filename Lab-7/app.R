@@ -101,7 +101,7 @@ shinyApp(
       data = {
          df <- idaQuery(
             paste0(
-            'SELECT * FROM ', vetting.table, ' T1 INNER JOIN ', vetting.table, '_ML_RESULTS T2 USING (UUID)',
+            'SELECT * FROM ', vetting.table, ' T1 INNER JOIN ', results.table, ' T2 USING (UUID)',
             ' ORDER BY VETTING_LEVEL, NAME'
           )
         )
