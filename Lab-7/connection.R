@@ -12,10 +12,10 @@ dsn.protocol <- 'TCPIP'
 # vetting table should be "FEMALE_HUMAN_TRAFFICKING"
 vetting.table = 'VETTING TABLE NAME HERE'
 
-# initials should be your initals - replace BLB
+# initials should be your initials - replace BLB
 initials = "BLB"  
 
-results.table = paste0(vetting.table,'_ML_RESULTS_',initals)
+results.table = paste0(vetting.table,'_ML_RESULTS_',initials)
 
 
 
