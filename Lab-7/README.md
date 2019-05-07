@@ -41,10 +41,10 @@ Upon completing the lab, you will know how to:
 ### Step 5.  Select `Git`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select-git-project.png"/>
 
-### Step 6.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_02-07` and press `Create Project`.
+### Step 6.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_05-09` and press `Create Project`.
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/DS_Repository.png"/>
 
-### Step 7.  In the files pane in the lower right of the RStudio IDE, click `Lab-3`.
+### Step 7.  In the files pane in the lower right of the RStudio IDE, click `Lab-7`.
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/Click_Lab-3.png"/>
 
 ### Step 8.  Click the `connection.R` file and fill in your DB2 on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to set vetting.table to 'FEMALE_HUMAN_TRAFFICKING'.   Save the file.
