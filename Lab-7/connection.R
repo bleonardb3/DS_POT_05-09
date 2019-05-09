@@ -2,9 +2,9 @@
 
 # Fill in connection details about your DB2 Warehouse instance below.
 
-dsn.hostname <- 'dashdb-entry-yp-dal09-08.services.dal.bluemix.net'
-dsn.uid <- 'dash100184'
-dsn.pwd <- 'lM21_mUSmC_a'
+dsn.hostname <- 'YOUR HOST NAME'
+dsn.uid <- 'YOUR USER NAME'
+dsn.pwd <- 'YOUR PASSWORD'
 dsn.database <- 'BLUDB'
 dsn.port <- '50000'
 dsn.protocol <- 'TCPIP'
