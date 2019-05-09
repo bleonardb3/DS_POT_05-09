@@ -1,4 +1,4 @@
-# Lab-8: DevOps Lab 
+# Lab-8: Model Builder + DevOps Lab 
 
 ## Introduction:
 
